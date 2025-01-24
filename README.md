@@ -1,6 +1,6 @@
 # Random User Fetcher
 
-This project is a small interactive application designed to fetch random users from an API and provide options to filter users by gender and view detailed user information.
+This project is a small and very simple interactive application designed to fetch random users from an API and provide options to filter users by gender and view detailed user information.
 
 ---
 
