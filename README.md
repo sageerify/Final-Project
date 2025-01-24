@@ -29,3 +29,9 @@ This project is a small interactive application designed to fetch random users f
 - **Random User API**: Provides the random user data.  
 
 ---
+
+## Setup and Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/random-user-fetcher.git
